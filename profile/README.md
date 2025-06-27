@@ -74,5 +74,3 @@ We’re inviting developers who believe in better tools to shape Hexagonical wit
 
 🖤 Hexagonical
 
-```
-
